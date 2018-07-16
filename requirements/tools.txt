@@ -28,7 +28,7 @@ jinja2==2.10              # via pyupio, sphinx
 markupsafe==1.0           # via jinja2
 mccabe==0.6.1             # via flake8
 more-itertools==4.1.0     # via pytest
-mypy==0.600
+mypy==0.620
 numpy==1.14.3
 packaging==17.1           # via dparse, pyupio, safety, sphinx
 pip-tools==2.0.2
